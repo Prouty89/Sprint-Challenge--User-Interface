@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\bkp\\Desktop\\School\\Sprint-Challenge--User-Interface\\design-files"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\bkp\\Desktop\\School\\Sprint-Challenge--User-Interface\\img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css",
+		"liveServer.settings.port": 5501
+	}
+}
